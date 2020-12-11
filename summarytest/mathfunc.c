@@ -15,7 +15,12 @@ int mul(int a, int b)
 	return a * b;
 }
 
-int divs(int a, int b)
+//int divs(int a, int b)
+//{
+//	return a/ b;
+//}
+
+double divs(int a, int b)
 {
-	return a/b;
+	return (a + 0.0) / (b + 0.0);
 }
