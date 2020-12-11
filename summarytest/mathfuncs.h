@@ -13,7 +13,8 @@ extern "C" {       	/*make sure the files are compiled in C*/
 	int add(int a, int b);
 	int sub(int a, int b);
 	int mul(int a, int b);
-	int divs(int a, int b);
+	//int divs(int a, int b);
+	double divs(int a, int b);
 
 
 #ifdef __cplusplus
