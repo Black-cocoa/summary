@@ -14,3 +14,8 @@ int mul(int a, int b)
 {
 	return a * b;
 }
+
+int divs(int a, int b)
+{
+	return a/b;
+}
